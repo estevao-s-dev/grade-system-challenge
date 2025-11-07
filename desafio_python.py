@@ -15,7 +15,8 @@ def main():
 
 # soma de notas das aops
 def notas_aops():
-
+    
+    # adicionar condições caso a nota tenha valor invalido
     aop_1 = input("Digite a nota da AOP 1: ")
     aop_2 = input("Digite a nota da AOP 2: ")
     aop_3 = input("Digite a nota da AOP 3: ")
