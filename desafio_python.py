@@ -17,10 +17,9 @@ def main():
         
         
 
-# soma de notas das aops
+# notas das aops
 def notas_aops():
     
-    # adicionar condições caso a nota tenha valor invalido
         
     aop_1 = float(input("Digite a nota da AOP 1: "))
 
